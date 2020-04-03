@@ -1,0 +1,21 @@
+{
+	"Typescript React Function Component": {
+		"prefix": "rh",
+		"body": [
+			"import React from 'react'",
+			"",
+			"interface Props {",
+			"",
+			"}",
+			"",
+			"export const $1: React.FC<Props> = () => {",
+			"\t\treturn (",
+			"\t\t\t\t<React.Fragment>",
+			"\t\t\t\t\t\t$2",
+			"\t\t\t\t</React.Fragment>",
+			"\t\t);",
+			"}"
+		],
+		"description": "Typescript React Function Component"
+	}
+}
